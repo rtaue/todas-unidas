@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: c955696de1a60a04488e9a6419b47636
+  - enabled: 1
+    path: Assets/Scenes/Loading.unity
+    guid: 8e98a53048de9114aae779852a189933
+  - enabled: 1
+    path: Assets/Scenes/LevelSelect.unity
+    guid: 97050ccd5794f1a46b0f2974f5203eb7
+  - enabled: 1
+    path: Assets/Scenes/JuliaScenes/JIntro.unity
+    guid: f2f459efd9b3adb4fba0be599c837139
+  - enabled: 1
+    path: Assets/Scenes/JuliaScenes/JScene1.unity
+    guid: 467e5ffa7a2c3b34e84d1ea381894e6e
+  - enabled: 1
+    path: Assets/Scenes/JuliaScenes/JScene2.unity
+    guid: 08e342540ea16eb45853ad052ca38b81
+  - enabled: 1
+    path: Assets/Scenes/JuliaScenes/JScene3.unity
+    guid: d9f4251f85f67a741bac09567b23e86c
+  - enabled: 1
+    path: Assets/Scenes/JuliaScenes/JScene4.unity
+    guid: 0c8fff08f0d4db9438ed7fd1940f1312
+  - enabled: 1
+    path: Assets/Scenes/JuliaScenes/JScene5.unity
+    guid: b4c42211cbfb60d4cb3eef51236f88d3
+  - enabled: 1
+    path: Assets/Scenes/JuliaScenes/JScene6.unity
+    guid: 215c830e09b16164c8d6446b1255ee49
+  - enabled: 1
+    path: Assets/Scenes/JuliaScenes/JScene7.unity
+    guid: 5a197c0e764cf514093b859cc9c3762a
+  - enabled: 1
+    path: Assets/Scenes/JuliaScenes/JScene8.unity
+    guid: 1fdd291a76f84274f8744114ea45959d
+  - enabled: 1
+    path: Assets/Scenes/JuliaScenes/JScene9.unity
+    guid: 66c5ae20177a6ed489eab2fc21c51f14
+  - enabled: 1
+    path: Assets/Scenes/JuliaScenes/JScene10.unity
+    guid: 0a692807489746443bdb61e860873541
+  - enabled: 1
+    path: Assets/Scenes/JuliaScenes/JScene11.unity
+    guid: 67910063bb6dffe47ac174665d8888ca
+  - enabled: 1
+    path: Assets/Scenes/JuliaScenes/JScene12.unity
+    guid: 47c4f6018d818ea42804344b26e58eb1
+  - enabled: 1
+    path: Assets/Scenes/JuliaScenes/JScene13.unity
+    guid: f2781b9a81bda5b48b6bb1dd3a491d7e
+  - enabled: 1
+    path: Assets/Scenes/JuliaScenes/JScene14.unity
+    guid: 6a449090671dc724398d4467b1727ab5
+  - enabled: 1
+    path: Assets/Scenes/CamilaScenes/CIntro.unity
+    guid: 13dbcea3f15558c489abd4daa66975a3
+  - enabled: 1
+    path: Assets/Scenes/CamilaScenes/CScene1.unity
+    guid: a87b13840626b194cb33c576f7e12356
+  - enabled: 1
+    path: Assets/Scenes/CamilaScenes/CScene2.unity
+    guid: 4ba74ed46643c7241b6208da2a5e2ca3
+  - enabled: 1
+    path: Assets/Scenes/CamilaScenes/CScene3.unity
+    guid: 2890d30279e604043996158c206d905f
+  - enabled: 1
+    path: Assets/Scenes/CamilaScenes/CScene4.unity
+    guid: 25ac54b806f8d744780c4e56474676df
+  - enabled: 1
+    path: Assets/Scenes/CamilaScenes/CScene5.unity
+    guid: d464ab5f4d04009468064f37fe24a4f7
+  - enabled: 1
+    path: Assets/Scenes/CamilaScenes/CScene6.unity
+    guid: 8dfa50ff2d7ca8742ba902b519f6bc9e
+  - enabled: 1
+    path: Assets/Scenes/CamilaScenes/CScene7.unity
+    guid: d6954e7affe0cb64688f4412427ccb1d
+  - enabled: 1
+    path: Assets/Scenes/CamilaScenes/CScene8.unity
+    guid: afd2ef48ac9cb614395205600b0c0db2
+  - enabled: 1
+    path: Assets/Scenes/CamilaScenes/CScene9.unity
+    guid: a03f7168c1738a74cb188058eb67f360
+  - enabled: 1
+    path: Assets/Scenes/CamilaScenes/CScene10.unity
+    guid: 3c20e40ca4209324db5c186ca35b2026
+  - enabled: 1
+    path: Assets/Scenes/CamilaScenes/CScene11.unity
+    guid: 132bd22178d5d34418f6336cb5053860
+  - enabled: 1
+    path: Assets/Scenes/CamilaScenes/CScene12a.unity
+    guid: 99afc1c926c4c174e93b2171248a4eb5
+  - enabled: 1
+    path: Assets/Scenes/CamilaScenes/CScene12b.unity
+    guid: 5337bc79257a46f478d076dce5be5e8d
+  - enabled: 1
+    path: Assets/Scenes/CamilaScenes/CScene13.unity
+    guid: b8759908a176a7544be8da56216a942e
+  - enabled: 1
+    path: Assets/Scenes/CamilaScenes/CScene14.unity
+    guid: 665831174a6858742b38922c58b9f5a2
+  - enabled: 1
+    path: Assets/Scenes/CamilaScenes/CScene15.unity
+    guid: bac17552e7477904cb2b9fe8fce58945

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0036c73a6ce586842880d676c55e5477
+timeCreated: 1510782211
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ComickBook Caps
+  fontNames:
+  - ComickBook Caps
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
