@@ -37,7 +37,7 @@ Todas Unidas gameplay video: https://youtu.be/9zer0-K7eEg
 Link to download: https://drive.google.com/open?id=1hiwWqSIuzdyrmPftrp3YCkGlz0xxg-wG
 
 ## Authors
-- **Rafael Taue** - Game Designer and Programmer - [GitHub](https://github.com/rtaue) - [Porfolio](https://rtaue.carbonmade.com/) - [LinkedIn](https://www.linkedin.com/in/rtaue/)
+- **Rafael Taue** - Game Designer and Programmer - [GitHub](https://github.com/rtaue) - [Porfolio](https://rtaue.com) - [LinkedIn](https://www.linkedin.com/in/rtaue/)
 - **Laís Rodrigues** - Game Designer and Artist - [ArtStation](https://www.artstation.com/marim) - [LinkedIn](https://www.linkedin.com/in/la%C3%ADs-rodrigues-548261149/)
 - **Graziela Andreatta** - Game Designer and Story Teller - [LinkedIn](https://www.linkedin.com/in/graziela-andreatta-620871136/)
 - **Gabriel Grego** - Game Designer - [LinkedIn](https://www.linkedin.com/in/gabriel-de-souza-grego-028754138/)
